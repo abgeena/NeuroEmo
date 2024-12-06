@@ -1,2 +1,2 @@
 # NeuroEmo
-A neuroimaging-based fMRI dataset for emotion recognition
+An fMRI Dataset for Emotion Recognition
