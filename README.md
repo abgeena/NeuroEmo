@@ -10,9 +10,13 @@ The data was collected at fMRI center of Central Institute of Psychiatry (CIP), 
 
 # Data Collection details
 This dataset was collected by:
+
 Abgeena, Research Scholar, Birla Institute of Technology, Mesra, Ranchi, India
+
 Under the guidance of:
+
 Dr. Shruti Garg, Assistant Professor, Department of Computer Science and Engineering, Birla Institute of Technology, Mesra, Ranchi, India
+
 Dr. Nishant Goyal, Professor, Department of Psychiatry, Central Institute of Psychiatry, Kanke, Ranchi, India
 
 # Acquisition details:
@@ -45,6 +49,9 @@ I extend gratitude to all 40 participants for their valuable time, patience and 
 
 # References
 Please add the following references to your publications related to emotion recognition, if you feel this work is helpful for you.
+
 o	Abgeena, A. and Garg, S., 2023. A novel convolution bi-directional gated recurrent unit neural network for emotion recognition in multichannel electroencephalogram signals. Technology and Health Care, 31(4), pp.1215-1234. https://doi.org/10.3233/THC-220458
+
 o	Abgeena, A. and Garg, S., 2023. S-LSTM-ATT: a hybrid deep learning approach with optimized features for emotion recognition in electroencephalogram. Health Information Science and Systems, 11(1), p.40. https://doi.org/10.1007/s13755-023-00242-x
+
 o   Abgeena, A. and Garg, S., 2023, February. EEG evoked automated emotion recognition using deep convolutional neural network. In 2023 Fifth International Conference on Electrical, Computer and Communication Technologies (ICECCT) (pp. 1-7). IEEE. https://doi.org/10.1109/ICECCT56650.2023.10179711
