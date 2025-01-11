@@ -21,7 +21,7 @@ Participants viewed movie clips designed to evoke different emotions task detail
 0 30 calm 30 30 white noise 60 30 afraid 90 30 white noise 120 30 delighted 150 30 white noise 180 30 depressed 210 30 white noise 240 30 excited 270 30 white noise 300 30 delighted 330 30 white noise 360 30 depressed 390 30 white noise 420 30 calm 450 30 white noise 480 30 excited 510 30 white noise 540 30 afraid 570 30 white noise
 
 # File Structure
--/sub-01/
+    -/sub-01/
 -/anat/
 -sub-01_T1w.nii: Anatomical data of sub-01
 -sub-01_T1w.json
