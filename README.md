@@ -1,5 +1,5 @@
 # NeuroEmo: An fMRI Dataset for Emotion Recognition
-https://openneuro.org/datasets/ds005700
+The dataset has been made publicly available at https://openneuro.org/datasets/ds005700
 
 # Description
 The purpose of the study is to enable emotion recognition analysis using culturally relevant stimuli, such as Indian Bollywood movie clips, in fMRI data collected from Indian participants. This dataset explores the neural basis of emotions in a contextually meaningful way, focusing on functional and dynamic connectivity.
