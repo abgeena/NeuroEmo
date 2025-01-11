@@ -22,14 +22,14 @@ Participants viewed movie clips designed to evoke different emotions task detail
 
 # File Structure
     -/sub-01/
--/anat/
--sub-01_T1w.nii: Anatomical data of sub-01
--sub-01_T1w.json
--/func/
-    -sub-01_task-fe_bold.nii: Functional data for the emotion task.
--sub-01_task-fe_bold.json
-    -sub-01_task-rest_bold.nii: Resting-state functional data.
--sub-01_task-rest_bold.json
+    -/anat/
+    -sub-01_T1w.nii: Anatomical data of sub-01
+    -sub-01_T1w.json
+    -/func/
+        -sub-01_task-fe_bold.nii: Functional data for the emotion task.
+    -sub-01_task-fe_bold.json
+        -sub-01_task-rest_bold.nii: Resting-state functional data.
+    -sub-01_task-rest_bold.json
 
 # Contact
 For questions, email: [abgeenakhan786@gmail.com]
