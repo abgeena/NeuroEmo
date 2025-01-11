@@ -1,13 +1,14 @@
 # NeuroEmo: An fMRI Dataset for Emotion Recognition
 https://openneuro.org/datasets/ds005700
 
-#Description: The purpose of the study is to enable emotion recognition analysis using culturally relevant stimuli, such as Indian Bollywood movie clips, in fMRI data collected from Indian participants. This dataset explores the neural basis of emotions in a contextually meaningful way, focusing on functional and dynamic connectivity.
+# Description
+The purpose of the study is to enable emotion recognition analysis using culturally relevant stimuli, such as Indian Bollywood movie clips, in fMRI data collected from Indian participants. This dataset explores the neural basis of emotions in a contextually meaningful way, focusing on functional and dynamic connectivity.
 
 # Summary
 This dataset contains fMRI data collected from 40 healthy participants who watched emotional Indian movie videos clips. Tasks included resting-state and emotion-elicitation tasks. Data was organized following the BIDS standard. Dataset size: 7.21 GB (BIDS-compliant format), 36 GB (raw DICOM files).
 The data was collected at fMRI center of Central Institute of Psychiatry (CIP), Kanke, Ranchi.The research proposal and experimental protocol received ethical clearance from the Institute Ethics Committee, CIP (No. IEC/CIP/2022-23/1709).
 
-# Data Collection details:
+# Data Collection details
 # Acquisition details:
 Scanner: Philips Ingenia 3T MRI scanner with following parameter- -T1w data was collected for matrix size 192x192x256, voxel size 1x1x1 mm, slice thickness 1, space between slices 1, echo time 0.002943, repetition time 0.0065, flip angle 9^°. -Task-rest_bold was collected for matrix size 96x96x38, voxel size -2.29x2.29x4 mm, slice thickness 4, space between slices 4, echo time 0.035001, repetition time 2.02697, flip angle 90^°, slice 38. -Task-fe_bold was collected for matrix size 128x128x36, voxel size =-1.8x1.8x4 mm, slice thickness 4, space between slices 4, echo time 0.035, repetition time 3, flip angle 90^°, slice 36.
 
