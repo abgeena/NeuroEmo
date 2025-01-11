@@ -19,8 +19,10 @@ Dr. Shruti Garg, Assistant Professor, Department of Computer Science and Enginee
 
 Dr. Nishant Goyal, Professor, Department of Psychiatry, Central Institute of Psychiatry, Kanke, Ranchi, India
 
-![image](https://github.com/user-attachments/assets/1c7c08a9-2289-4d04-a132-486b20eea921)
+Data curation support:
+Justin Raj, JRF, Department of Psychiatry, Central Institute of Psychiatry, Kanke, Ranchi, India
 
+![image](https://github.com/user-attachments/assets/1c7c08a9-2289-4d04-a132-486b20eea921)
 
 # Acquisition details:
 Scanner: Philips Ingenia 3T MRI scanner with following parameter- -T1w data was collected for matrix size 192x192x256, voxel size 1x1x1 mm, slice thickness 1, space between slices 1, echo time 0.002943, repetition time 0.0065, flip angle 9^°. -Task-rest_bold was collected for matrix size 96x96x38, voxel size -2.29x2.29x4 mm, slice thickness 4, space between slices 4, echo time 0.035001, repetition time 2.02697, flip angle 90^°, slice 38. -Task-fe_bold was collected for matrix size 128x128x36, voxel size =-1.8x1.8x4 mm, slice thickness 4, space between slices 4, echo time 0.035, repetition time 3, flip angle 90^°, slice 36.
