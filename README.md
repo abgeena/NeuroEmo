@@ -19,7 +19,8 @@ Dr. Shruti Garg, Assistant Professor, Department of Computer Science and Enginee
 
 Dr. Nishant Goyal, Professor, Department of Psychiatry, Central Institute of Psychiatry, Kanke, Ranchi, India
 
-Data curation support:
+fMRI experimental setup was designed by:
+
 Justin Raj, JRF, Department of Psychiatry, Central Institute of Psychiatry, Kanke, Ranchi, India
 
 ![image](https://github.com/user-attachments/assets/1c7c08a9-2289-4d04-a132-486b20eea921)
